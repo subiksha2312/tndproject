@@ -1,0 +1,1 @@
+To open the website, Open index.html in any browser (for both input and output).
