@@ -1,0 +1,30 @@
+Input
+1) Type of system : Symmetrical spacing
+2) Spacing between conductors : 10 m
+3) Number of subconductors per bundle : 5
+4) Spacing between the subconductors : 15 mm
+5) Number of strands in each subconductor : 20
+6) Diameter of each strand : 5 mm
+7) Line length in km : 100 km
+8) Model of the line : Short
+9) Resistance of the line per km : 100 mΩ
+10) Power frequency : 50 Hz
+11) Nominal system voltage : 11 kV
+12) Receiving end load : 1.20 MW
+13) Power factor of recieving end load : 0.95
+
+Output
+1) Inductance per phase per km in H/km = 1.27 mH/km
+2) Capacitance per phase per km in F/km = 8.86 nF/km
+3) Inductive reactance of the line in Ohm = 39.77 Ω
+4) Capacitive reactance of the line in Ohm = 3.59 kΩ
+5) Charging current drawn from the sending end substation = 0 A
+6) A = 1∠0°
+7) B = 41.004∠75.88°
+8) C = 0∠0°
+9) D = 1∠0°
+10) Sending end voltage, if the receiving end voltage is maintained at nominal system voltage = 13 kV
+11) Sending end current = 66.30 A
+12) Percentage voltage regulation = 18.15 %
+13) Power loss int the line = 0.29 MW
+14) Transmission efficiency = 80.40 %
